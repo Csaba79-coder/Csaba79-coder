@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Csaba79-coder 
+- 👋 Hi, I’m @Csaba79-coder attending Milton Friedman University - Business Informatics Engineer
 - 👀 👌 https://codepen.io/csaba79-coder
 - 👀 👌 https://csaba79-coder.github.io/
 - 👀 I’m interested in challenges that makes my brain works :)
