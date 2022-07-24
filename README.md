@@ -24,7 +24,7 @@ I’m @Csaba79-coder attending Milton Friedman University - Business Informatics
 - 👀 👌 https://stackoverflow.com/users/15283401/csaba-vadasz
 - 👀 👌 https://www.hackerrank.com/csaba_vadasz79
 - 👀 I’m interested in challenges that makes my brain works :)
-- 🌱 Python, Linux (studied at Codecool Budapest)
+- 🌱 Python, Linux (studied at Codecool Budapest - basics of programming)
 - 🌱 JAVA, OOM, Git, SQL, Spring, JPA, Scrum at Progmatic Academy Budapest & self-learining: HTML, CSS, JavaScript
 - 🌱 JAVA, Spring - Greenfox Academy (advanced level)
 - 🌱 Milton Friedman University: C#, Python, Linux server
