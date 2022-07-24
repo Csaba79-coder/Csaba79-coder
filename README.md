@@ -1,6 +1,11 @@
 👋 Hey, 
 
+
 I’m @Csaba79-coder attending Milton Friedman University - Business Informatics Engineer
+
+
+<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
 
 <p align="center">
   <a href="https://github.com/Csaba79-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20and%20Spring;1+%2B%20years'%20of%20coding%20experience;junior%20backend%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -37,8 +42,6 @@ I’m @Csaba79-coder attending Milton Friedman University - Business Informatics
 Csaba79-coder/Csaba79-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
   
 <p align="center">
     <img 
