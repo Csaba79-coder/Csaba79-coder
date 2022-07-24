@@ -3,7 +3,7 @@
 I’m @Csaba79-coder attending Milton Friedman University - Business Informatics Engineer
 
 <p align="center">
-  <a href="https://github.com/senior-dev-1019"><img src="https://readme-typing-svg.herokuapp.com/?lines=%20Java%20and%20Spring%20junior%20backend%20developer;1+%2B%20years%20of%20coding%20experience;Java,%20Spring&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Csaba79-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20and%20Spring;1+%2B%20years%20of%20coding%20experience;junior,%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
