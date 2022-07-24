@@ -1,7 +1,7 @@
 👋 Hey, 
 
 
-I’m @Csaba79-coder attending Milton Friedman University - Business Informatics Engineer>
+I’m @Csaba79-coder attending Milton Friedman University - Business Informatics Engineer
 
 
 <p align="center">
