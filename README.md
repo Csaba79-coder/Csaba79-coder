@@ -9,7 +9,6 @@ I’m @Csaba79-coder attending Milton Friedman University - Business Informatics
         <a href="https://github.com/Csaba79-coder?tab=followers">
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/Csaba79-coder?color=blue&logo=github">
         </a>
-#![](https://komarev.com/ghpvc/?username=Csaba79-coder)
 
 <p align="center">
   <a href="https://github.com/Csaba79-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20and%20Spring;1+%2B%20years'%20of%20coding%20experience;junior%20backend%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
@@ -59,3 +58,26 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Csaba79-coder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+<table>
+    <tr>
+        <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48"/>
+            </a>
+            <br>Angular&nbsp;
+        </td>
+        <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48"/>
+            </a>
+            <br>Spring Boot&nbsp;
+        </td>
+        <td align="center" width="96">
+            <a>
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
+            </a>
+            <br>Node.JS&nbsp;
+        </td>
+    </tr>
+</table>
