@@ -2,7 +2,14 @@
 
 
 I’m @Csaba79-coder attending Milton Friedman University - Business Informatics Engineer
-![](https://komarev.com/ghpvc/?username=Csaba79-coder)
+
+<a href="https://github.com/Csaba79-coder">
+            <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
+      </a>
+        <a href="https://github.com/Csaba79-coder?tab=followers">
+            <img alt="GitHub followers" src="https://img.shields.io/github/followers/Csaba79-coder?color=blue&logo=github">
+        </a>
+#![](https://komarev.com/ghpvc/?username=Csaba79-coder)
 
 <p align="center">
   <a href="https://github.com/Csaba79-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Java%20and%20Spring;1+%2B%20years'%20of%20coding%20experience;junior%20backend%20developer&font=Pacifico&center=true&width=650&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
