@@ -59,25 +59,4 @@ You can click the Preview link to take a look at your changes.
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Csaba79-coder&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" width="48" height="48"/>
-            </a>
-            <br>Angular&nbsp;
-        </td>
-        <td align="center" width="96">
-            <a>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="48" height="48"/>
-            </a>
-            <br>Spring Boot&nbsp;
-        </td>
-        <td align="center" width="96">
-            <a>
-                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" height="48"/>
-            </a>
-            <br>Node.JS&nbsp;
-        </td>
-    </tr>
-</table>
+![Fav](https://github-readme-stats.vercel.app/api/top-langs/?username=Csaba79-coder&layout=compact&theme=radical)
