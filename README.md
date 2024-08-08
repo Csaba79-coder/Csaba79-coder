@@ -1,7 +1,7 @@
-<a href="#" style="font-size: 2em; font-weight: bold;">👋 Hey, </a>
+<a href="#" style="font-size: 2em; font-weight: bold; text-decoration: none;">👋 Hey, </a>
 
 
-<a href="#" style="font-size: 1.5em; font-weight: normal;">I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc< </a>
+<a href="#" style="font-size: 1.5em; font-weight: normal; text-decoration: none;">I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc< </a>
 
 <a href="#" class="h2-like">Interested in:</a> <a href="#" class="h3-like">The development and applications of Artificial Intelligence (AI)</a>
 
