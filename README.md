@@ -1,7 +1,7 @@
 👋 Hey, 
 
 
-I’m @Csaba79-coder attending Milton Friedman University - Business Informatics Engineer
+I’m @Csaba79-coder attending University of Pannonia -  Software Engineering MSc
 
 <a href="https://github.com/Csaba79-coder">
             <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
