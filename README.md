@@ -1,9 +1,9 @@
-<span style="font-size: 2em; font-weight: bold; text-decoration: none;">👋 Hey,</span>
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey,</span>
 
 
 <span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc</span>
 
-<span style="font-size: 1.17em; font-weight: bold; text-decoration: none;">Interested in: </span><span style="font-size: 1.17em; font-weight: normal; text-decoration: none;">The development and applications of Artificial Intelligence (AI)</span>
+<span style="font-size: 1.17em; font-weight: normal; text-decoration: none;">Interested in: </span><span style="font-size: 1.17em; font-weight: normal; text-decoration: none;">The development and applications of Artificial Intelligence (AI)</span>
 
 <a href="https://github.com/Csaba79-coder">
             <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
