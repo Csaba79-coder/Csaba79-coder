@@ -1,9 +1,9 @@
-<h1>👋 Hey, </h1>
+<a href="#" style="font-size: 2em; font-weight: bold;">👋 Hey, </a>
 
 
-<h2>I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc</h2>
+<a href="#" style="font-size: 1.5em; font-weight: normal;">I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc< </a>
 
-<h2>Interested in:</h2> <h3>The development and applications of Artificial Intelligence (AI)</h3>
+<a href="#" class="h2-like">Interested in:</a> <a href="#" class="h3-like">The development and applications of Artificial Intelligence (AI)</a>
 
 <a href="https://github.com/Csaba79-coder">
             <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
