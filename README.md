@@ -1,4 +1,4 @@
-<a href="#" style="font-size: 2em; font-weight: bold; text-decoration: none;">👋 Hey, </a>
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey,</span>
 
 
 <a href="#" style="font-size: 1.5em; font-weight: normal; text-decoration: none;">I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc< </a>
