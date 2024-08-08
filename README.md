@@ -1,7 +1,9 @@
-👋 Hey, 
+<h1>👋 Hey, </h1>
 
 
-I’m @Csaba79-coder attending University of Pannonia -  Software Engineering MSc
+<h2>I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc</h2>
+
+<h2>Interested in:</h2> <h3>The development and applications of Artificial Intelligence (AI)</h3>
 
 <a href="https://github.com/Csaba79-coder">
             <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
