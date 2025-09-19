@@ -1,9 +1,11 @@
-<span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey,</span>
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey, I’m @Csaba79-coder</span>
 
 
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">I’m @Csaba79-coder attending the University of Pannonia - Software Engineering MSc</span>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🎓 MSc in Software Engineering @ University of Pannonia</span>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">💻 Java Spring | 🛠 Open Source Projects | 🌐 Web & Backend</span>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🚀 AI Development | 🤖 Machine Learning | ⚡ Automation</span>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🌟 Always exploring new tech & ideas</span>
 
-<span style="font-size: 1.17em; font-weight: normal; text-decoration: none;">Interested in: the development and applications of Artificial Intelligence (AI)</span>
 
 <a href="https://github.com/Csaba79-coder">
             <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
