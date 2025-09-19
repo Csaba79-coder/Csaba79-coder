@@ -1,4 +1,6 @@
-<span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey, I’m @Csaba79-coder</span>
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey, I’m @Csaba79-coder</span><br>
+
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;">🧑‍💻 I’m @Csaba79-coder</span><br>
 
 
 <span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🎓 MSc in Computer Science @ University of Pannonia</span><br>
