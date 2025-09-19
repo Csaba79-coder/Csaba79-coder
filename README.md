@@ -1,10 +1,10 @@
 <span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey, I’m @Csaba79-coder</span>
 
 
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🎓 MSc in Software Engineering @ University of Pannonia</span>
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">💻 Java Spring | 🛠 Open Source Projects | 🌐 Web & Backend</span>
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🚀 AI Development | 🤖 Machine Learning | ⚡ Automation</span>
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🌟 Always exploring new tech & ideas</span>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🎓 MSc in Computer Science @ University of Pannonia</span><br>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">💻 Java Spring | 🛠 Open Source Projects | 🌐 Web & Backend</span><br>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🚀 AI Development | 🤖 Machine Learning | ⚡ Automation</span><br>
+<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🌟 Always exploring new tech & ideas</span><br>
 
 
 <a href="https://github.com/Csaba79-coder">
