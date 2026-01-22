@@ -1,6 +1,6 @@
 <span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey,</span><br><br>
 
-<span style="font-size: 2em; font-weight: normal; text-decoration: none;">🧑‍💻 I'm @Csaba79-coder</span><br><br>
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;">🧑‍💻 🏳️‍🌈 🇪🇺 I'm @Csaba79-coder</span><br><br>
 <span style="font-size: 2em; font-weight: normal; text-decoration: none;">☕ ☕ Java Developer by day, 🪲 Debugger by night</span><br>
 
 <span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🎓 MSc in Computer Science | Software Design and Development (formerly Programming Mathematics) @ University of Pannonia</span><br>
