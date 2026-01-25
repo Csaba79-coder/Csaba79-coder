@@ -1,13 +1,7 @@
 <span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey,</span><br><br>
 
-<span style="font-size: 2em; font-weight: normal; text-decoration: none;">🧑‍💻 🏳️‍🌈 ![EU Flag](https://flagcdn.com/w20/eu.png) I'm @Csaba79-coder</span><br><br>
-<span style="font-size: 2em; font-weight: normal; text-decoration: none;">☕ ☕ Java Developer by day, 🪲 Debugger by night</span><br>
-
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🎓 MSc in Computer Science | Software Design and Development (formerly Programming Mathematics) @ University of Pannonia</span><br>
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">💻 Java Spring | 🛠 Open Source Projects | 🌐 Web & Backend</span><br>
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🚀 AI Development | 🤖 Machine Learning | ⚡ Automation</span><br>
-<span style="font-size: 1.5em; font-weight: normal; text-decoration: none;">🌟 Always exploring new tech & ideas</span><br>
-
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;">🧑‍💻 🏳️‍🌈 ![EU Flag](https://flagcdn.com/w20/eu.png) I'm @Csaba79-coder ☕ ☕ Java Developer by day, 🪲 Debugger by night </span><br><br>
+<span style="font-size: 2em; font-weight: normal; text-decoration: none;"></span><br>
 
 <a href="https://github.com/Csaba79-coder">
             <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
@@ -20,7 +14,7 @@
   <a href="https://github.com/Csaba79-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Java%20Spring%20Backend%20Engineer;AI%20Development%20Enthusiast;Computer%20Science%20%26%20AI%20Instructor;INTJ%20Mindset%20%26%20DiSC%20DC-Style%20Personality&font=Pacifico&center=true&width=920&height=120&color=58a6ff&vCenter=true&size=45&pause=1000"></a>
 </p>
 
-<img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+<img src="software-engineer.gif" alt="Coding Animation" width="600"/>
      
 <h2 align="left" id="macropower-tech">Favorite Tech</h2>
 
