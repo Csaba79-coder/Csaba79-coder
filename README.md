@@ -35,35 +35,48 @@
   <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.herokuapp.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
    <a> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=plactic&logo=angular&logoColor=white"  width="70"/></a>
 
-- 👀 👌 🌐 https://csaba79coder.com/
-- 👀 👌 https://www.linkedin.com/in/csabavadasz/
-- 👀 👌 https://profile.codersrank.io/user/csaba79-coder
-- 👀 👌 https://codepen.io/csaba79-coder
-- 👀 👌 https://csaba79-coder.github.io/
-- 👀 👌 https://stackoverflow.com/users/15283401/csaba-vadasz
-- 👀 👌 https://www.hackerrank.com/csaba_vadasz79
-- 👀 I’m interested in challenges that makes my brain works :)
-- 🌱 Python, Linux (studied at Codecool Budapest - basics of programming)
-- 🌱 JAVA, OOM, Git, SQL, Spring, JPA, Scrum at Progmatic Academy Budapest & self-learining: HTML, CSS, JavaScript
-- 🌱 JAVA, Spring - Greenfox Academy (advanced level)
-- 🌱 Milton Friedman University: C#, Python, Linux server
-- 💞️ I’m looking to collaborate on any financial projects as I was working in Bank before (registry / blutter programs) - more interested in backend development
-- 📫 How to reach me: on e-mail: csabavadasz79@gmail.com (in subject pls. inform me from where you contacted me and what reason!)
-- 👍 useful website: https://bounty.github.com/ :) and good to know and a great reward!
-- 👀 👌 https://csaba79coder.com/ <-- that is my website!
+## 🌐 Connect & Portfolio
+- 🏠 **Website:** https://csaba79coder.com/
+- 💼 **LinkedIn:** https://www.linkedin.com/in/csabavadasz/
+- 🤖 **Skool Community:** https://www.skool.com/@csaba-vadasz-9708
+
+## 💻 Coding Profiles
+- ⚔️ **Codewars:** https://www.codewars.com/users/Csaba79-coder
+- 📚 **Stack Overflow:** https://stackoverflow.com/users/15283401/csaba-vadasz
+- 🏆 **HackerRank:** https://www.hackerrank.com/csaba_vadasz79
+- 📊 **CodersRank:** https://profile.codersrank.io/user/csaba79-coder
+- 🎨 **CodePen:** https://codepen.io/csaba79-coder
+
+## 📄 GitHub Pages
+- https://csaba79-coder.github.io/
+
+## 🎓 Education
+- **MSc in Computer Science | Software Design and Development (formerly Programming Mathematics)** - University of Pannonia
+- **BSc in Business Informatics** - Milton Friedman University
+- **MSc in Specialist in European Union Finance** - Budapest Business School
+- **BSc in Economics** - Szechenyi Istvan University (Logistics specialization)
+- 🏆 **Morgan Stanley Scholarship** @ Greenfox Academy (Advanced Java Spring)
+
+## 👨‍💻 About Me
+- 👀 Interested in challenges that make my brain work
+- 💼 Former banking/finance background → Backend developer
+- ☕ Java Spring, Python, AI/ML enthusiast
+- 💞️ Open to collaborating on backend/financial projects
+- 📫 csabavadasz79@gmail.com *(please mention where you found me)*
+- 💡 **Tip:** https://bounty.github.com/
 
 
 <!---
 Csaba79-coder/Csaba79-coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
   
 <p align="center">
     <img 
-      alt="snake animation"
-      title="Snake Animation" 
+      alt="snake animation."
+      title="Snake Animation." 
       src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks!&fontAlign=80&fontAlignY=40&color=gradient" 
-      width="100%" 
+      width="100%." 
     />
 </p>
 
