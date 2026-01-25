@@ -38,6 +38,8 @@
 ## 🌐 Connect & Portfolio
 - 🏠 **Website:** https://csaba79coder.com/
 - 💼 **LinkedIn:** https://www.linkedin.com/in/csabavadasz/
+
+## 🤝 Community
 - 🤖 **AI Klub:** https://www.skool.com/@csaba-vadasz-9708
 
 ## 💻 Coding Profiles
