@@ -17,7 +17,7 @@
         </a>
 
 <p align="center">
-  <a href="https://github.com/Csaba79-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Java%20Spring%20Backend%20Engineer;AI%20Development%20%26%20Automation%20Enthusiast;Computer%20Science%20%26%20AI%20Instructor;INTJ%20Mindset%20%26%20DiSC%20DC-Style%20Personality&font=Pacifico&center=true&width=900&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
+  <a href="https://github.com/Csaba79-coder"><img src="https://readme-typing-svg.herokuapp.com/?lines=Passionate%20Java%20Spring%20Backend%20Engineer;AI%20Development%20Enthusiast;Computer%20Science%20%26%20AI%20Instructor;INTJ%20Mindset%20%26%20DiSC%20DC-Style%20Personality&font=Pacifico&center=true&width=900&height=120&color=58a6ff&vCenter=true&size=45%22"></a>
 </p>
 
 <img align="center" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
