@@ -1,5 +1,5 @@
 <a href="https://github.com/Csaba79-coder">
-            <img src="https://komarev.com/ghpvc/?username=AbdurRKhalid" alt="page views" />
+            <img src="https://komarev.com/ghpvc/?username=Csaba79-coder" alt="page views" />
 </a>
 <a href="https://github.com/Csaba79-coder?tab=followers">
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/Csaba79-coder?color=blue&logo=github">
@@ -31,21 +31,21 @@
    <a> <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?&style=plactic&logo=angular&logoColor=white"  width="70"/></a>
 
 ## 🌐 Connect & Portfolio
-- 🏠 **Website:** https://csaba79coder.com/
-- 💼 **LinkedIn:** https://www.linkedin.com/in/csabavadasz/
+- 🏠 **Website:** <a href="https://csaba79coder.com/" target="_blank">https://csaba79coder.com/</a>
+- 💼 **LinkedIn:** <a href="https://www.linkedin.com/in/csabavadasz/" target="_blank">https://www.linkedin.com/in/csabavadasz/</a>
 
 ## 🤝 Community
-- 🤖 **AI Klub:** https://www.skool.com/@csaba-vadasz-9708
+- 🤖 **AI Klub:** <a href="https://www.skool.com/@csaba-vadasz-9708" target="_blank">https://www.skool.com/@csaba-vadasz-9708</a>
 
 ## 💻 Coding Profiles
-- ⚔️ **Codewars:** https://www.codewars.com/users/Csaba79-coder
-- 📚 **Stack Overflow:** https://stackoverflow.com/users/15283401/csaba-vadasz
-- 🏆 **HackerRank:** https://www.hackerrank.com/csaba_vadasz79
-- 📊 **CodersRank:** https://profile.codersrank.io/user/csaba79-coder
-- 🎨 **CodePen:** https://codepen.io/csaba79-coder
+- ⚔️ **Codewars:** <a href="https://www.codewars.com/users/Csaba79-coder" target="_blank">https://www.codewars.com/users/Csaba79-coder</a>
+- 📚 **Stack Overflow:** <a href="https://stackoverflow.com/users/15283401/csaba-vadasz" target="_blank">https://stackoverflow.com/users/15283401/csaba-vadasz</a>
+- 🏆 **HackerRank:** <a href="https://www.hackerrank.com/csaba_vadasz79" target="_blank">https://www.hackerrank.com/csaba_vadasz79</a>
+- 📊 **CodersRank:** <a href="https://profile.codersrank.io/user/csaba79-coder" target="_blank">https://profile.codersrank.io/user/csaba79-coder</a>
+- 🎨 **CodePen:** <a href="https://codepen.io/csaba79-coder" target="_blank">https://codepen.io/csaba79-coder</a>
 
 ## 📄 GitHub Pages
-- https://csaba79-coder.github.io/
+- 🐙 **Wonders of Nature** <a href="https://csaba79-coder.github.io/" target="_blank">https://csaba79-coder.github.io/</a>
 
 ## 🎓 Education
 - **MSc in Computer Science | Software Design and Development (formerly Programming Mathematics)** - University of Pannonia
@@ -59,8 +59,8 @@
 - 💼 Former banking/finance background → Backend developer
 - ☕ Java Spring, Python, AI/ML enthusiast
 - 💞️ Open to collaborating on backend/financial projects
-- 📫 csabavadasz79@gmail.com *(please mention where you found me)*
-- 💡 **Tip:** https://bounty.github.com/
+- 📫 **Email:** `csabavadasz79@gmail.com` *(please mention where you found me)*
+- 💡 **Tip:** <a href="https://bounty.github.com/" target="_blank">https://bounty.github.com/</a>
 
 
 <!---
