@@ -3,7 +3,7 @@
 </a>
 <a href="https://github.com/Csaba79-coder?tab=followers">
             <img alt="GitHub followers" src="https://img.shields.io/github/followers/Csaba79-coder?color=blue&logo=github">
-</a><br>
+</a><br><br>
         
 <span style="font-size: 2em; font-weight: normal; text-decoration: none;">👋 Hey,</span><br><br>
 
