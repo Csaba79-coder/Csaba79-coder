@@ -70,10 +70,10 @@ You can click the Preview link to view your changes.
   
 <p align="center">
     <img 
-      alt="snake animation."
-      title="Snake Animation." 
+      alt="snake animation"
+      title="Snake Animation" 
       src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Thanks!&fontAlign=80&fontAlignY=40&color=gradient" 
-      width="100%." 
+      width="100%" 
     />
 </p>
 
