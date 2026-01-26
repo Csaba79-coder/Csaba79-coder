@@ -77,4 +77,14 @@ You can click the Preview link to view your changes.
     />
 </p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Csaba79-coder&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
+<img src="https://github-readme-stats.vercel.app/api
+?username=Csaba79-coder
+&show_icons=true
+&include_all_commits=true
+&count_private=true
+&bg_color=0d1117
+&title_color=58a6ff
+&text_color=c9d1d9
+&icon_color=79c0ff
+&border_color=30363d
+&hide_border=false" />
