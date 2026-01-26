@@ -48,11 +48,11 @@
 - 🐙 **Wonders of Nature** <a href="https://csaba79-coder.github.io/" target="_blank">https://csaba79-coder.github.io/</a>
 
 ## 🎓 Education
-- **MSc in Computer Science | Software Design and Development (formerly Programming Mathematics)** - University of Pannonia
-- **BSc in Business Informatics** - Milton Friedman University
+- **MSc in Computer Science | Software Design and Development (formerly Programming Mathematics)** - 🏆 **State-funded (merit-based)** @ University of Pannonia
+- **BSc in Business Informatics** - 🏆 **State-funded (merit-based)** @ Milton Friedman University
 - **MSc in Specialist in European Union Finance** - Budapest Business School
 - **BSc in Economics** - Szechenyi Istvan University (Logistics specialization)
-- 🏆 **Morgan Stanley Scholarship** @ Greenfox Academy (Advanced Java Spring)
+- **Advanced Java Spring** - 🏆 **Morgan Stanley Scholarship** @ Greenfox Academy
 
 ## 👨‍💻 About Me
 - 👀 Interested in challenges that make my brain work
