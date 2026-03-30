@@ -77,4 +77,4 @@ You can click the Preview link to view your changes.
     />
 </p>
 
-![Stats](./profile/stats.svg)
+![Stats](./profile/stats.svg?v=2)
