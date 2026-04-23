@@ -8,8 +8,8 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">Csaba Vad&#225;sz | &#1510;'&#1489;&#1488; &#1493;&#1464;&#1491;&#1463;&#1488;&#1505;'s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 26, Total Commits  : 2361, Total PRs: 225, Total Issues: 30, Contributed to (last year): 0</desc>
+        <title id="titleId">Csaba Vad&#225;sz | &#1510;'&#1489;&#1488; &#1493;&#1464;&#1491;&#1463;&#1488;&#1505;'s GitHub Stats, Rank: A-</title>
+        <desc id="descId">Total Stars Earned: 26, Total Commits  : 2362, Total PRs: 225, Total Issues: 30, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 96.44057063475233;
+        stroke-dashoffset: 90.30004772022176;
       }
     }
   
@@ -143,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          B+
+          A-
         </text>
       
         </g>
