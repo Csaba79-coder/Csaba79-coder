@@ -77,4 +77,4 @@ You can click the Preview link to view your changes.
     />
 </p>
 
-![Stats](./profile/stats.svg?v=2)
+![Stats](https://github-readme-stats.vercel.app/api?username=Csaba79-coder&show_icons=true&theme=dark&hide_border=true)
