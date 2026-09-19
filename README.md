@@ -77,4 +77,6 @@ You can click the Preview link to view your changes.
     />
 </p>
 
-![Stats](https://streak-stats.demolab.com/?user=Csaba79-coder&background=0d1117&border=30363d&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e)
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Csaba79-coder&background=0d1117&border=30363d&ring=2ea043&fire=2ea043&currStreakLabel=2ea043&currStreakNum=ffffff&sideNums=ffffff&sideLabels=c9d1d9&dates=8b949e" alt="Streak stats" />
+</p>
